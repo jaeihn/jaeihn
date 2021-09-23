@@ -30,7 +30,7 @@
 <h3>(Hopefully) Useful things for some people</h3>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
-  <li>Python code to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some cleaning, but works like a charm.)</li>
+  <li>Python code to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some cleaning and a better UI, but works like a charm.)</li>
 </ul>
 <br>
 
