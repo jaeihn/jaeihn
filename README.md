@@ -23,17 +23,17 @@
 
 <h3>Ongoing Projects</h3>
 <ul>
-  <li>Trying to catch up on Eric Wastl's wonderful <a href="https://adventofcode.com/">Advent of Calendar</a>. Currently working on 2015 problems.</li>
+  <li>Catching up on Eric Wastl's wonderful <a href="https://adventofcode.com/">Advent of Calendar</a>. Currently working on 2015 problems using Python.</li>
 </ul>
 <br>
 
 <h3>(Hopefully) Useful things for some people</h3>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
-  <li>Python code to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some cleaning and a better UI, but works like a charm.)</li>
+  <li><a href="https://github.com/jaeihn/FFXIV-Mini-Cactpot-Solver">Python code</a> to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some code cleaning and a better UI, but works like a charm.)</li>
 </ul>
 <br>
 
 <!-- Footer -->
-<p align="right"><i><sub>This README page was written in HTML / Last update: September 23, 2021</i></sub></p>
+<p align="right"><i><sub>This README page was written in HTML / Last update: October 6, 2021</i></sub></p>
 
