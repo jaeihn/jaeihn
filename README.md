@@ -27,6 +27,12 @@
 </ul>
 <br>
 
+<h3>Reading Notes</h3>
+<ul>
+  <li><프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 Algorithmic Problem Solving Strategies>, 구종만 Jongman Koo, 2012.
+</ul>
+<br>
+
 <h3>(Hopefully) Useful things for some people</h3>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
