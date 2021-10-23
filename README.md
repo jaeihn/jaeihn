@@ -33,13 +33,19 @@
 </ul>
 <br>
 
-<h3>(Hopefully) Useful things for some people</h3>
+<h3>Repositories</h3>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
   <li><a href="https://github.com/jaeihn/FFXIV-Mini-Cactpot-Solver">Python code</a> to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some code cleaning and a better UI, but works like a charm.)</li>
 </ul>
 <br>
+    
+<h3>Useful Resources</h3>
+<ul>
+  <li>I am a big advocate for learning by doing. For people who are just starting out in coding, or preparing for the AP Computer Science Exam, <a href="https://codingbat.com/java">CodingBat</a> offers a collection of introductory level programming problems in Java. 
+</ul>
+<br>
 
 <!-- Footer -->
-<p align="right"><i><sub>This README page was written in HTML / Last update: October 6, 2021</i></sub></p>
+<p align="right"><i><sub>This README page was written in HTML / Last update: October 23, 2021</i></sub></p>
 
