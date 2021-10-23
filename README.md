@@ -38,7 +38,7 @@
 <h3>Useful Resources</h3>
 <ul>
   <li>I am a big advocate for learning by doing. For people who are just starting out in coding, or preparing for the AP Computer Science Exam, Nick Parlante's <a href="https://codingbat.com/java">CodingBat</a> offers a collection of introductory level programming problems in Java. The completeness of your code is automatically assessed through a series of test cases.</li>
-  <li>Eric Wastl publishes coding problems of various difficulties every year in December, a code version of Advent Calendar (= aptly named the <a href="https://adventofcode.com/">Advent of Calendar</a>"Advent of Code"</a>). You are given unique inputs and the website only tests for the corresponding output, so you can use whatever programming language you want.</li>
+  <li>Eric Wastl publishes coding problems of various difficulties every year in December, a code version of Advent Calendar (= aptly named the <a href="https://adventofcode.com/">"Advent of Code"</a>). You are given unique inputs and the website only tests for the corresponding output, so you can use whatever programming language you want.</li>
 </ul>
 <br>
 
