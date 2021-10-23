@@ -15,7 +15,7 @@
 <h3>About Me</h3>
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. Please respect my preferred gender pronoun: THEY/THEM. 
-  <li>Currently preparing for a Master's program in computer science.</li>
+  <li>Currently preparing for a Master's program in Computer Science in Canada.</li>
   <li>Research interests: natural language processing, affective computing, human-computer interaction.</li>
   <li>Trying to get into a habit of organizing and backing up my projects in GITHUB.</li>
 </ul>
