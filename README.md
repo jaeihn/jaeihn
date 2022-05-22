@@ -16,18 +16,12 @@
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. </li>
   <li>Please respect my preferred gender pronoun: THEY/THEM.</li>
-  <li>Currently preparing for a Master's program in Computer Science in Canada.</li>
+  <li>Starting UBC's Master of Data Science in Computational Linguistics program this Fall.</li>
   <li>Research interests: natural language processing, affective computing, human-computer interaction.</li>
   <li>Trying to get into a habit of organizing and backing up my projects in GITHUB.</li>
 </ul>
 <br>
 
-
-<h3>Reading Notes</h3>
-<ul>
-  <li><프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략 Algorithmic Problem Solving Strategies>, 구종만 Jongman Koo, 2012.
-</ul>
-<br>
 
 <h3>Repositories</h3>
 <ul>
