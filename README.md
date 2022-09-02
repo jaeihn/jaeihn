@@ -1,6 +1,6 @@
 <!-- Introduction --!>
 
-<h2 align="center">Hello World, my name is @jaeihn.</h2>
+<h2 align="center">"hello world"; my name is @jaeihn.</h2>
 
 
 <!-- Contact Links -->
@@ -16,7 +16,7 @@
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. </li>
   <li>Please respect my preferred gender pronoun: THEY/THEM.</li>
-  <li>Starting UBC's Master of Data Science in Computational Linguistics program this Fall.</li>
+  <li>Currently in UBC's Master of Data Science in Computational Linguistics program.</li>
   <li>Research interests: natural language processing, affective computing, human-computer interaction.</li>
   <li>Trying to get into a habit of organizing and backing up my projects in GITHUB.</li>
 </ul>
