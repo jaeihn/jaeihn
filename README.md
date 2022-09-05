@@ -1,6 +1,6 @@
 <!-- Introduction --!>
 
-<h2 align="center">"hello world"; my name is @jaeihn.</h2>
+<h2 align="center"><code>"hello world";</code> my name is @jaeihn.</h2>
 
 
 <!-- Contact Links -->
@@ -13,8 +13,8 @@
 
 
 <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
+    <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
+    <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
 
     
 <h2>About Me</h2>
