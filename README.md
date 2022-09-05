@@ -13,8 +13,8 @@
 
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
-    <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
 
     
 <h2>About Me</h2>
@@ -28,18 +28,8 @@
 <br>
 
 
-<h2>Repositories</h2>
-<a href="https://github.com/jaeihn/AntibioticResistanceSimulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeihn&repo=AntibioticResistanceSimulation&theme=aura_dark" />
-</a>
-<a href="https://github.com/jaeihn/FFXIV-Mini-Cactpot-Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaeihn&repo=FFXIV-Mini-Cactpot-Solver&theme=aura_dark" />
-</a>
-   
-  
-<br>
     
-<h3>Repositories</h3>
+<h2>Repositories</h2>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
   <li><a href="https://github.com/jaeihn/FFXIV-Mini-Cactpot-Solver">Python code</a> to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some code cleaning and a better UI, but works like a charm.)</li>
