@@ -11,9 +11,12 @@
     <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" class="center"></a>
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true&hide=stars,prs,contribs,issues)](https://github.com/jaeihn/github-readme-stats)
 
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
+    <img height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
 
+    
 <h2>About Me</h2>
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. </li>
