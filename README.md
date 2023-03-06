@@ -15,16 +15,16 @@
 
 
 <p align="center">
-    <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
-    <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark">
-
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=jaeihn&theme=aura_dark&show_icons=true&count_private=true">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeihn&hide_title=true&theme=aura_dark&layout=compact">
+</p>
     
 <h2>About Me</h2>
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. </li>
   <li>Please respect my preferred gender pronoun: THEY/THEM.</li>
-  <li>Currently in UBC's Master of Data Science in Computational Linguistics program.</li>
-  <li>Research interests: natural language processing, affective computing, human-computer interaction.</li>
+  <li>Currently in UBC's Master of Data Science in Computational Linguistics program. Expected to graduate in 2023/07.</li>
+  <li>Areas of interest: natural language processing, affective computing, human-computer interaction.</li>
   <li>Trying to get into a habit of organizing and backing up my projects in GITHUB.</li>
 </ul>
 <br>
@@ -52,5 +52,5 @@
 <br>
 
 <!-- Footer -->
-<p align="right"><i><sub>This README page was written in HTML / Last update: October 23, 2021</i></sub></p>
+<p align="right"><i><sub>This README page was written in HTML / Last update: March 6, 2023</i></sub></p>
 
