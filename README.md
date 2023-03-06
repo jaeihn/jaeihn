@@ -30,8 +30,15 @@
 <br>
 
 
+<h2>Ongoing Projects</h2>
+<ul>
+  <li>HTML Annotator</li>
+  <li><a href="https://adventofcode.com/">Advent of Code</a></li> 
+</ul>
+
+<br>
     
-<h2>Repositories</h2>
+<h2>Past Projects</h2>
 <ul>
   <li>Java application of <a href="https://github.com/jaeihn/AntibioticResistanceSimulation">Antibiotic resistance simulation</a>. (Pretty cute.)
   <li><a href="https://github.com/jaeihn/FFXIV-Mini-Cactpot-Solver">Python code</a> to determine optimal choice for <a href="https://ffxiv.consolegameswiki.com/wiki/Cactpot">Mini-Cactpot</a> in <a href="https://www.finalfantasyxiv.com/">Final Fantasy XIV</a>. (Needs some code cleaning and a better UI, but works like a charm.)</li>
