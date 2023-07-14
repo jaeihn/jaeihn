@@ -23,7 +23,7 @@
 <ul>
   <li>You can contact me in EN, KR, JP, and CH. </li>
   <li>Please respect my preferred gender pronoun: THEY/THEM.</li>
-  <li>Currently in UBC's Master of Data Science in Computational Linguistics program. Expected to graduate in 2023/07.</li>
+  <li>Recent graduate of UBC's Master of Data Science in Computational Linguistics program.</li>
   <li>Areas of interest: natural language processing, affective computing, human-computer interaction.</li>
   <li>Trying to get into a habit of organizing and backing up my projects in GITHUB.</li>
 </ul>
